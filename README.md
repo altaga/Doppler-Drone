@@ -9,7 +9,11 @@ System works this way:
 - The Sigfox module sends an encrypted message to the Sigfox Backend platform.
 - Sigfox Backend communicates directly with Watson IoT platform with API Integration.
 - To manage the communication between the devices and the website, we use a Python console in Watson Studio, the website doesnt work without this configuration.
-  - When a new call from the Sigfox module arrives, the information is sent to Cloudant for the database.- Through Watson IoT we send the necessary information to the page. - The data received by the page are the following:   - New alerts. - Direct information from the database.
+  - When a new call from the Sigfox module arrives, the information is sent to Cloudant for the database.
+  - Through Watson IoT we send the necessary information to the page. 
+  - The data received by the page are the following:   
+    - New alerts. 
+    - Direct information from the database.
        
 
     
