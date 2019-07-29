@@ -25,7 +25,8 @@ System works this way:
     - New alerts. 
     - Direct information from the database.
     
-The WebApp is mounted as a CloudFoundry App:
+
+The WebApp is hosting as a CloudFoundry App:
 
 <img src="https://i.ibb.co/SPd0CGF/image.png" width="1000">
 
