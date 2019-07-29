@@ -4,6 +4,16 @@ System Diagram:
 
 <img src="https://i.ibb.co/Xxk3cS7/call-for-code-Diagram.png" width="1000">
 
+IBM Services:
+- Watson IoT Platform.
+- Watson Studio       (Python)
+- Cloudant DB.
+- Cloud Foundry App.  (WebApp Hosting)
+
+Other Services:
+- Google Maps API.
+- SigFox Backend.
+
 System works this way:
 
 - The Sigfox module sends an encrypted message to the Sigfox Backend platform.
@@ -14,10 +24,8 @@ System works this way:
   - The data received by the page are the following:   
     - New alerts. 
     - Direct information from the database.
-       
-
     
-The WebApp is mounted as a CloudFoundry App in the following link:
+The WebApp is mounted as a CloudFoundry App:
 
 <img src="https://i.ibb.co/SPd0CGF/image.png" width="1000">
 
