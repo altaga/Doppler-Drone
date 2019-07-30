@@ -13,6 +13,7 @@
 * [Claw Bluetooth Module](#claw-bluetooth-module)
 * [Claw BT Module Under The Drone](#claw-bt-module-under-the-drone)
 * [Command center](#command-center)
+* [Conclusions](#conclusions)
 
 ## Introduction
 
