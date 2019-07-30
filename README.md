@@ -34,9 +34,20 @@ Doppler Drone Sigfox Module Circuit:
 
 <img src="https://i.ibb.co/qpYshDc/Untitled-Sketch-2-bb.png" width="1000">
 
+Real Module Photos:
+
+<img src="https://i.ibb.co/nwNb8Yv/DSC00045.jpg" width="1000">
+<img src="https://i.ibb.co/dLFNmZM/DSC00048.jpg" width="1000">
+<img src="https://i.ibb.co/ZT2Md7R/DSC00051.jpg" width="1000">
+
 Claw Bluetooth Module: (We can control this claw with any System with BT)
 
 <img src="https://i.ibb.co/DYJW6CD/Untitled-Sketch-bb.png" width="1000">
+
+Claw BT Module under the dron:
+
+<img src="https://i.ibb.co/Tm7NTS5/image.png" width="1000">
+<img src="https://i.ibb.co/KwtQSKf/image.png" width="1000">
 
 Command center:
 
