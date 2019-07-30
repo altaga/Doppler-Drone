@@ -58,7 +58,7 @@ The flight computer have a powerful capacity to perform multiple tasks that allo
 <img src="https://i.ibb.co/6ggx7Fr/Drone.jpg" width="1000">
 
 The drone features are:
-- Model drone F250
+- Drone Model F250
 - Diagonal Wheelbase: 450mm.
 - 2112 1000KV Brushless motor.
 - HP Simonk 30A Speed Controller.
