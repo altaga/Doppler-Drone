@@ -44,6 +44,8 @@ We have an operation center that allow us to manage, track and control our drone
 
 The flight computer have a powerful capacity to perform multiple tasks that allow us to set different routes and actions in case of critical changes.
 
+<img src="https://i.ibb.co/6ggx7Fr/Drone.jpg" width="1000">
+
 The drone features are:
 - Model drone F250
 - Diagonal Wheelbase: 450mm.
