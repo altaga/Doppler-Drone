@@ -1,6 +1,6 @@
 # Doppler-Drone
 
-<img src="https://i.ibb.co/dGZcWLH/Drone.png" width="500">
+<img src="https://i.ibb.co/dGZcWLH/Drone.png" width="1000">
 
 # Table of contents
 * [System Diagram](#system-diagram)
