@@ -12,6 +12,8 @@
 * [Real Module Photos](#real-module-photos)
 * [Claw Bluetooth Module](#claw-bluetooth-module)
 * [Claw BT Module Under The Drone](#claw-bt-module-under-the-drone)
+* [Logistics Plan](#logistics-plan)
+* [Financial Viability](#financial-viability)
 * [Command center](#command-center)
 * [Conclusions](#conclusions)
 
@@ -107,6 +109,69 @@ Other Services:
 <img src="https://i.ibb.co/KwtQSKf/image.png" width="1000">
 
 [Back to table of contents](#table-of-contents)
+
+## Logistics Plan
+
+We created a logistics plan only for Mexico City and we designed its logistics according to the density of population. (14)
+
+We distribute drones efficiently with the data obtained from the government. The only problem is that the most recent data we have is 2016. 
+
+The more dense counties are: 
+<img src="https://callforcode.s3.amazonaws.com/popdesn.png">
+-Iztacalco
+-Cuauhtemoc
+-Iztapalapa
+-Benito Juarez
+
+The main area where we will focus our system will be these four Counties. They were also the most affected during the earthquake.
+
+We designed our drone to carry a 7 kg. box and fly 10 kilometers, so our network is designed according that logistics.
+
+The box will have a first aid kit (13), that includes:
+
+-alcohol and peroxide
+-antacids
+-aspirine
+-hot water bag
+-plastic bag
+-baking soda
+-matches
+-tape
+-Qtips
+-bandaids (different sizes)
+-dropper
+-soap
+-first aid manual
+-merthiolate
+-a razor
+-cotton swabs
+-needles
+-gauze
+-water purification drops
+-thermometer
+-scissors 
+-bandages
+
+The map shown next, explains the distances in Mexico city (15). We have 12 kilometers around to access any point of the city, but we will locate the central station in Cuauhtemoc or Iztacalco at the left end. That way we can access the most dense parts of the city. 
+<img src="https://callforcode.s3.amazonaws.com/delegaciones.png">
+
+## Financial Viability
+
+The economic benefits of drones are clear to see, comparing the resource to move a big number of people to attend and emergency in disaster situation. The market offers a big variety of drones that can be cheap and easy to control, related specifically in logistics the cost to move certain goods cost less in terms of money, energy and time. 
+Drone commercial sector is expected to generate $2.3 billion in investments next year. By 2025, its economic impact is set to almost double, forecast to surpass $5 billion this projection reduces the cost of materials and make the organizations affordable to acquire a drone.
+
+All emergency medical products are small and lightweight but they can also be expensive. For example, today it costs $10,000 USD to lift someone in a helicopter to go to a hospital, this is completely out of the question during a disaster. With a drone you are cutting the cost substantially and and also avoiding the delay that may be caused by the chaos and traffic (14).
+
+### Business model
+
+There are several government expenses but the budget applied to disasters can sometimes rise to more than 100M USD. This amount includes people, logistics and transport, in which the risk and cost can be reduced dramatically using automated drones. 
+Creating an alliance with big health companies we can establish an agile logistic channel to provide fast delivery and valuable data to medical companies and laboratories based on the situation.
+
+Here is our infographic:
+
+<img src="https://callforcode.s3.amazonaws.com/Diapositiva1.PNG">
+
+
 
 ## Command center:
 
