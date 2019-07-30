@@ -9,7 +9,7 @@
 * [Doppler Drone Sigfox Module Circuit](#doppler-drone-sigfox-module-circuit)
 * [Real Module Photos](#real-module-photos)
 * [Claw Bluetooth Module](#claw-bluetooth-module)
-* [Claw BT Module under the dron](#claw-bt-module-under-the-dron)
+* [Claw BT Module Under The Drone](#claw-bt-module-under-the-drone)
 * [Command center](#command-center)
 
 ## System Diagram: 
@@ -67,7 +67,7 @@ Other Services:
 
 [Back to table of contents](#table-of-contents)
 
-## Claw BT Module under the dron:
+## Claw BT Module Under The Drone:
 
 <img src="https://i.ibb.co/Tm7NTS5/image.png" width="1000">
 <img src="https://i.ibb.co/KwtQSKf/image.png" width="1000">
