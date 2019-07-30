@@ -109,9 +109,9 @@ Other Services:
 
 ## Command center:
 
-We have an operation center that allow us to manage, track and control our drone devices. The platform that we use to make this possible is via Ardupilot. This open source help us to establish direct communication with each drone using Telemetry radios, Bluetooth, IP connections etc.
+We have an operation center that allow us to manage, track and control our drone devices. The platform that we use to make this possible is via Ardupilot. This open source poject helps us to establish direct communication with each drone using Telemetry radios, Bluetooth, IP connections etc.
 
-The flight computer have a powerful capacity to perform multiple tasks that allow us to set different routes and actions in case of critical changes.
+The flight computer has a powerful capability to perform multiple tasks that allow us to set different routes and actions in case of critical changes.
 
 <img src="https://i.ibb.co/6ggx7Fr/Drone.jpg" width="1000">
 
@@ -126,17 +126,18 @@ The drone features are:
 - 1 x APM2.8 Flight controller.
 - Screws for landing gear: 6.86g (all screws)
 
-The interface bring us the facility to set different parameters like Mission Waypoints and events. These commands bring a self and secure drone driving because in case of losing connectivity the drone will return to home direction immediately, applying a security process to avoid any obstacles like trees or buildings that make it crash. At first instance we provide a person to monitor and program the drone routes. Using automation we want to launch task automatically in strategic zones previously set by authorities to provide a fast response during disasters first approach. Using radio transmitter has a longer operating range up to 10KM and above.
+The interface brings us the facility to set different parameters like Mission Waypoints and events. These commands brings secure drone driving because in case of losing connectivity, the drone will return to home immediately, applying a security process to avoid any obstacles like trees or buildings that can make it crash. At first instance, we monitor and program the drone routes. Using automation we want to launch tasks automatically in strategic zones previously set by the authorities to provide a fast response during disasters. The radio transmitter has a long operating range up to 10KM and above.
 
-In the other hand the integration using UDP protocol facilitate the communication and interaction with drones via mission planner to send and set new task with automatic operations based on situation. 
+In the other hand the integration using UDP protocol facilitates the communication and interaction with drones via a mission planner to send and set new tasks with automatic operations based on the situation. 
 
-In operation mode Ardupilot software allow us to set the points to deliver the IoT module with basic commands.
+In operation mode the Ardupilot software allows us to set the points to deliver the IoT module with basic commands.
 
 <img src="https://i.ibb.co/0Cqjxb4/callforcode.png" width="1000">
 
 ## Conclusion
 
-First response systems can improve,and can be applied to several cities globally not only Mexico. We can provide the required tool to improve those first responses. Drones are the most efficient and fast devices to send packages and they will be autonomous )already tested them this way and you can see in the video).
+First response systems can improve, and it can be applied to several cities globally, not only Mexico. We can provide the required tools to improve those first responses. Drones are the most efficient and fast devices to send packages and they will be autonomous 
+(already tested them this way and you can see in the video).
 
 To continue working on this and in order to improve it, we wish to expand the possibilities of the project. We have access to 360 degree video cameras and we can develop VR applications, so that will be the next step. Not only delivering the goods but also mapping the terrain, like no other tech at the moment can. Using 360 degree and VR capabilities in order to provide a superior service to first responders.
 
@@ -144,6 +145,26 @@ Times of response right now average 1.3 days in an emergency situation. we want 
 
 [Back to table of contents](#table-of-contents)
 
+## References
+
+References
+
+(1)https://www.gob.mx/cms/uploads/attachment/file/252641/Manual_de_Protecci_n_Civil_STCONAPRA.pdf
+(2)https://www.unam.mx/medidas-de-emergencia/que-hacer-en-caso-de
+(3)http://www.cenaprece.salud.gob.mx/programas/interior/emergencias/descargas/pdf/ManualRefugiosTemporales.pdf
+(4)https://www.ecri.org/Resources/Hurricane/Natural_Disasters(Healthcare-Hazard-Control).pdf
+(5) https://transportgeography.org/?page_id=6295
+(6)https://www.usa.gov/after-disaster
+(7)https://www.disasterassistance.gov/information/immediate-needs/emergency-food-and-water
+(8)https://www.disasterassistance.gov/information/immediate-needs/emergency-medical
+(9)https://www.heart.org/
+(10) https://www.gob.mx/sedena
+(11)http://www.proteccioncivil.gob.mx/work/models/ProteccionCivil/Resource/377/1/images/guia_pd.pdf
+(12)http://www3.inegi.org.mx/rnm/index.php/catalog/253/datafile/F104
+(13)https://www.gob.mx/conagua/articulos/que-debe-de-contener-un-botiquin-de-primeros-auxilios?idiom=es
+(14)http://data.salud.cdmx.gob.mx/portal/media/agenda_2016/Paginas/1.12.pdf
+(15)https://descargarmapas.net/mexico/ciudad-de-mexico/mapa-ciudad-de-mexico-delegaciones-area-urbana
+(16) blogs-images.forbes.com/niallmccarthy/files/2015/10/20151019_drones_FO_2.jpg
 
 
 
