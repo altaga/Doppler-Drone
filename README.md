@@ -12,7 +12,7 @@
 * [Claw BT Module under the dron](#claw-bt-module-under-the-dron)
 * [Command center](#command-center)
 
-## System Diagram:
+## System Diagram: [Table of contents](#table-of-contents)
 
 <img src="https://i.ibb.co/Xxk3cS7/call-for-code-Diagram.png" width="1000">
 
