@@ -4,6 +4,7 @@
 
 # Table of contents
 * [Introduction](#Introduction)
+* [Our Solution](#our-solution)
 * [System Diagram](#system-diagram)
 * [System works this way](#system-works-this-way)
 * [The WebApp is hosting as a CloudFoundry App](#the-webapp-is-hosting-as-a-cloudfoundry-app)
