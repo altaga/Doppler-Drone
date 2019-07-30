@@ -38,6 +38,32 @@ Claw Bluetooth Module: (We can control this claw with any System with BT)
 
 <img src="https://i.ibb.co/DYJW6CD/Untitled-Sketch-bb.png" width="1000">
 
+Command center:
+
+We have an operation center that allow us to manage, track and control our drone devices. The platform that we use to make this possible is via Ardupilot. This open source help us to establish direct communication with each drone using Telemetry radios, Bluetooth, IP connections etc.
+
+The flight computer have a powerful capacity to perform multiple tasks that allow us to set different routes and actions in case of critical changes.
+
+The drone features are:
+- Model drone F250
+- Diagonal Wheelbase: 450mm.
+- 2112 1000KV Brushless motor.
+- HP Simonk 30A Speed Controller.
+- Frame Weight: 282g.
+- Takeoff Weight: 800g ~ 1600g.
+- Landing gear: 17.5g each arm.
+- 1 x APM2.8 Flight controller.
+- Screws for landing gear: 6.86g (all screws)
+
+The interface bring us the facility to set different parameters like Mission Waypoints and events. These commands bring a self and secure drone driving because in case of losing connectivity the drone will return to home direction immediately, applying a security process to avoid any obstacles like trees or buildings that make it crash. At first instance we provide a person to monitor and program the drone routes. Using automation we want to launch task automatically in strategic zones previously set by authorities to provide a fast response during disasters first approach. Using radio transmitter has a longer operating range up to 10KM and above.
+
+In the other hand the integration using UDP protocol facilitate the communication and interaction with drones via mission planner to send and set new task with automatic operations based on situation. 
+
+In operation mode Ardupilot software allow us to set the points to deliver the IoT module with basic commands.
+
+<img src="https://i.ibb.co/0Cqjxb4/callforcode.png" width="1000">
+
+
 
 
 
