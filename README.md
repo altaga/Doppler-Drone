@@ -61,7 +61,8 @@ Other Services:
 
 [Back to table of contents](#table-of-contents)
 
-## Claw Bluetooth Module: (We can control this claw with any System with BT)
+## Claw Bluetooth Module: 
+(We can control this claw with any System with BT)
 
 <img src="https://i.ibb.co/DYJW6CD/Untitled-Sketch-bb.png" width="1000">
 
